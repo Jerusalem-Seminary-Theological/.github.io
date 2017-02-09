@@ -1,0 +1,1200 @@
+{
+  "settings": {
+    "currentPage": "page1.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#fac51c",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto Condensed",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.11",
+    "uniqCompNum": 86,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "httpssites.google.comsiteseminaryjerusalemministry": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/14690954-199131643853212-4910545487851274617-n-345x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.seminarioabierto.com/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Seminario Teologico Jerusalen</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.seminarioabierto.com/\">Seminario Biblico Reina Valera </a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#efefef",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13613114_121223491644028_54233711922719064_o-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/46lWEDaUrvk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#c0a375",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "",
+          "text": "<br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jerusalem Church Seminary Theological Bible<br>",
+          "buttons": "           <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Evangelios",
+          "text": "Click on each number video to watch&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/37672239\" data-toolbar=\"-mbrBtnMove\">01-Canon</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/37674297\" data-toolbar=\"-mbrBtnMove\">02-Critica Textual</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/37676325\" data-toolbar=\"-mbrBtnMove\">03-Sinopticos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36924663\" data-toolbar=\"-mbrBtnMove\">04-Critica_Alta</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931568\" data-toolbar=\"-mbrBtnMove\">05-Mateo-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931567\" data-toolbar=\"-mbrBtnMove\">06-Mateo-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931569\" data-toolbar=\"-mbrBtnMove\">07-Marcos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931570\" data-toolbar=\"-mbrBtnMove\">08-Marcos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36934523\" data-toolbar=\"-mbrBtnMove\">09-Lucas-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36934524\" data-toolbar=\"-mbrBtnMove\">10-Lucas-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36936100\" data-toolbar=\"-mbrBtnMove\">11-Juan-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36937392\" data-toolbar=\"-mbrBtnMove\">12-Juan-2</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36938269\" data-toolbar=\"-mbrBtnMove\">13-Temas_Especiales-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36938270\" data-toolbar=\"-mbrBtnMove\">14-Temas_Especiales-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36938270\" data-toolbar=\"-mbrBtnMove\">14-Temas_Especiales-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-4",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Hechos y Cartas de Pablo",
+          "text": "&nbsp;Click on each number video to watch ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939845\" data-toolbar=\"-mbrBtnMove\">01-Hechos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939846\" data-toolbar=\"-mbrBtnMove\">02-Hechos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939847\" data-toolbar=\"-mbrBtnMove\">03-04 Vida de Pablo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939850\" data-toolbar=\"-mbrBtnMove\">05-Tesalonicenses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939852\" data-toolbar=\"-mbrBtnMove\">06-Galatas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972985\" data-toolbar=\"-mbrBtnMove\">07-1Corintios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972986\" data-toolbar=\"-mbrBtnMove\">08-2Corintios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972989\" data-toolbar=\"-mbrBtnMove\">09-Romanos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972990\" data-toolbar=\"-mbrBtnMove\">10-Romanos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36976169\" data-toolbar=\"-mbrBtnMove\">11-Colosenses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37190272\" data-toolbar=\"-mbrBtnMove\">12-Filemon</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37117535\" data-toolbar=\"-mbrBtnMove\">13-Efesios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37125016\" data-toolbar=\"-mbrBtnMove\">14-Filipenses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37125017\" data-toolbar=\"-mbrBtnMove\">15-1 y 2 Timoteo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37125018\" data-toolbar=\"-mbrBtnMove\">16-2 Timoteo y Tito</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas </a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Cartas Generales y Apocalipsis",
+          "text": "&nbsp;Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37679518\" data-toolbar=\"-mbrBtnMove\">01-Hebreos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37679519\" data-toolbar=\"-mbrBtnMove\">02-Hebreos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37681415\" data-toolbar=\"-mbrBtnMove\">03-Hebreos-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682316\" data-toolbar=\"-mbrBtnMove\">04-Hebreos-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682318\" data-toolbar=\"-mbrBtnMove\">05-Santiago-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682320\" data-toolbar=\"-mbrBtnMove\">06-Santiago-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682321\" data-toolbar=\"-mbrBtnMove\">07-1 Pedro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682326\" data-toolbar=\"-mbrBtnMove\">08-2 Pedro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689050\" data-toolbar=\"-mbrBtnMove\">09-1 Juan</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689051\" data-toolbar=\"-mbrBtnMove\">10-2 y 3 Juan</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689052\" data-toolbar=\"-mbrBtnMove\">11-Judas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689053\" data-toolbar=\"-mbrBtnMove\">12-Apocalipsis-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689055\" data-toolbar=\"-mbrBtnMove\">13-Apocalipsis-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37700221\" data-toolbar=\"-mbrBtnMove\">14-Apocalipsis-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37700222\" data-toolbar=\"-mbrBtnMove\">15-Apocalipsis-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxzZW1pbmFyeWplcnVzYWxlbW1pbmlzdHJ5fGd4OjdhOWQzNzQzNTM4MTNkZDE\" data-toolbar=\"-mbrBtnMove\">Examen de Nuevo Testamento Apocalipsis</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Libros Historicos del Antiguo Testamento",
+          "text": "&nbsp;Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/52630383\" data-toolbar=\"-mbrBtnMove\">01-Texto Canon</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/38525764\" data-toolbar=\"-mbrBtnMove\">02-Historia y Critica</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37702865\" data-toolbar=\"-mbrBtnMove\">03-Genesis</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37702867\" data-toolbar=\"-mbrBtnMove\">04-Exodo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37702869\" data-toolbar=\"-mbrBtnMove\">05-Levitico</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736121\" data-toolbar=\"-mbrBtnMove\">06-Deuteronomio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736123\" data-toolbar=\"-mbrBtnMove\">07-Josue</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736125\" data-toolbar=\"-mbrBtnMove\">08-Jueces y Rut</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736127\" data-toolbar=\"-mbrBtnMove\">09-1 Samuel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736129\" data-toolbar=\"-mbrBtnMove\">10-2 Samuel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748182\" data-toolbar=\"-mbrBtnMove\">11y 12-Reyes-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748185\" data-toolbar=\"-mbrBtnMove\">13-Cronicas-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748187\" data-toolbar=\"-mbrBtnMove\">14-Cronicas-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748189\" data-toolbar=\"-mbrBtnMove\">15-Esdras y Nehemias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37754148\" data-toolbar=\"-mbrBtnMove\">16-Ester</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo de 150 Pagina </a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Profetas y Poetas",
+          "text": "Click on each number video to watch&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37988305\" data-toolbar=\"-mbrBtnMove\">01-Isaias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37991133\" data-toolbar=\"-mbrBtnMove\">02-Jeremias y Lamentaciones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37980300\" data-toolbar=\"-mbrBtnMove\">03-Ezequiel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37980297\" data-toolbar=\"-mbrBtnMove\">04-Daniel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37980298\" data-toolbar=\"-mbrBtnMove\">05-Oseas y Joel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534236\" data-toolbar=\"-mbrBtnMove\">06-Amos y Abdias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534238\" data-toolbar=\"-mbrBtnMove\">07-Jonas y Miqueas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534241\" data-toolbar=\"-mbrBtnMove\">08- Nahum y Habacuc</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534242\" data-toolbar=\"-mbrBtnMove\">09-Sofonias y Hageo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534244\" data-toolbar=\"-mbrBtnMove\">10-Zacarias y Malaquias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38536667\" data-toolbar=\"-mbrBtnMove\">11-Poesia Hebrea</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38536669\" data-toolbar=\"-mbrBtnMove\">12-Proverbios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38536670\" data-toolbar=\"-mbrBtnMove\">13-Job</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Pagina </a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Hermeneutica",
+          "text": "Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127015\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127016\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127017\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127019\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127020\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37180883\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37180882\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182558\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182560\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182563\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182564\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182566\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37187075\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37187076\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_6307f7f29d02431295bfa86204ab9c9b.pdf\" data-toolbar=\"-mbrBtnMove\">Libro Principios de INTERPRETACIÓN BÍBLICA L. Berkhof</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-e",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Teología Sistemática",
+          "text": "Parte 1 de 2<br>Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28031490\" data-toolbar=\"-mbrBtnMove\">1-Revelacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28031975\" data-toolbar=\"-mbrBtnMove\">2-Escritura</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28032487\" data-toolbar=\"-mbrBtnMove\">3-Dios_Existencia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28032998\" data-toolbar=\"-mbrBtnMove\">4-Dios_Atributos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28033360\" data-toolbar=\"-mbrBtnMove\">5-Dios_Trinidad</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28033805\" data-toolbar=\"-mbrBtnMove\">6-Dios_Decreto</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28034065\" data-toolbar=\"-mbrBtnMove\">7-Predestinación</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28034443\" data-toolbar=\"-mbrBtnMove\">8-Creación</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28470373\" data-toolbar=\"-mbrBtnMove\">9-Providencia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28471539\" data-toolbar=\"-mbrBtnMove\">10- Naturaleza_Hombre</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28472194\" data-toolbar=\"-mbrBtnMove\">11-Imagen_de_Dios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28946505\" data-toolbar=\"-mbrBtnMove\">12-Pecado</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28947075\" data-toolbar=\"-mbrBtnMove\">13-Pacto_de_gracia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28948755\" data-toolbar=\"-mbrBtnMove\">14-Historia_Cristologia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29121765\" data-toolbar=\"-mbrBtnMove\">15-Naturalezas y Persona de Cristo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_4e393aee65d94cfcbda9e3044d9f659e.pdf\" data-toolbar=\"-mbrBtnMove\">Libro TEOLOGÍA SISTEMÁTICA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a>                 "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Teología Sistemática",
+          "text": "Parte 2 de 2<br>Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29122363\" data-toolbar=\"-mbrBtnMove\">16-Estados y oficios de Cristo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29267225\" data-toolbar=\"-mbrBtnMove\">17-Expiación-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29268559\" data-toolbar=\"-mbrBtnMove\">18-Expiación-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29269809\" data-toolbar=\"-mbrBtnMove\">19-Pneumatología-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29272031\" data-toolbar=\"-mbrBtnMove\">20-Pneumatología-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29272942\" data-toolbar=\"-mbrBtnMove\">21-Pneumatología-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36445459\" data-toolbar=\"-mbrBtnMove\">22-Pneumatologia-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36448417\" data-toolbar=\"-mbrBtnMove\">23-Pneumatologia-5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36450737\" data-toolbar=\"-mbrBtnMove\">24-Eclesiologia-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36459502\" data-toolbar=\"-mbrBtnMove\">25-Eclesiologia-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36477421\" data-toolbar=\"-mbrBtnMove\">26-Eclesiologia-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36478354\" data-toolbar=\"-mbrBtnMove\">27-Eclesiologia-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36872081\" data-toolbar=\"-mbrBtnMove\">28-Escatologia-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36917013\" data-toolbar=\"-mbrBtnMove\">29-Escatologia-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36918145\" data-toolbar=\"-mbrBtnMove\">30-Escatologia-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36918999\" data-toolbar=\"-mbrBtnMove\">31-Escatologia-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_d2174cc9d261416894009148ce8befed.pdf\" data-toolbar=\"-mbrBtnMove\">Teologia Sistematica Myler Perlman </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Homiletica",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572376\" data-toolbar=\"-mbrBtnMove\">01-Naturaleza y Necesidad</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572377\" data-toolbar=\"-mbrBtnMove\">02-Razones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572379\" data-toolbar=\"-mbrBtnMove\">03-Seleccion del Texto</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572380\" data-toolbar=\"-mbrBtnMove\">04-Diagramas Exegeticos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572383\" data-toolbar=\"-mbrBtnMove\">05-Bosquejo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587458\" data-toolbar=\"-mbrBtnMove\">06-Divisiones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587460\" data-toolbar=\"-mbrBtnMove\">07-Ilustracion y Aplicacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587461\" data-toolbar=\"-mbrBtnMove\">08-Introduccion y Conclusion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587462\" data-toolbar=\"-mbrBtnMove\">09-Del Texto al Sermon-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587463\" data-toolbar=\"-mbrBtnMove\">10-Del Texto al Sermon-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38592514\" data-toolbar=\"-mbrBtnMove\">11-Generos de sermones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38592515\" data-toolbar=\"-mbrBtnMove\">12-Modos de preparacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38592518\" data-toolbar=\"-mbrBtnMove\">13-Como leer la BIblia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_0c8fe2afbfb74879baaa0c6cd29baace.pdf\" data-toolbar=\"-mbrBtnMove\">Libro ORATORIA Y HOMILÉTICA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Hacer 150 Paginas de Sermones</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "La historia de la iglesia",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19535338\" data-toolbar=\"-mbrBtnMove\">1 La iglesia apostólica</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19537522\" data-toolbar=\"-mbrBtnMove\">2 La iglesia perseguida-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19580702\" data-toolbar=\"-mbrBtnMove\">3 La iglesia perseguida-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19587736\" data-toolbar=\"-mbrBtnMove\">4 La iglesia perseguida-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19597974\" data-toolbar=\"-mbrBtnMove\">5 La iglesia imperial-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20075365\" data-toolbar=\"-mbrBtnMove\">6 La iglesia imperial-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20085077\" data-toolbar=\"-mbrBtnMove\">7 La iglesia medieval-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20103223\" data-toolbar=\"-mbrBtnMove\">8 La iglesia medieval-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20105689\" data-toolbar=\"-mbrBtnMove\">9 La iglesia medieval-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20758229\" data-toolbar=\"-mbrBtnMove\">10 La iglesia medieval-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20763521\" data-toolbar=\"-mbrBtnMove\">11 La iglesia reformada-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20764751\" data-toolbar=\"-mbrBtnMove\">12 La iglesia reformada-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20765687\" data-toolbar=\"-mbrBtnMove\">13 La iglesia reformada-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20767520\" data-toolbar=\"-mbrBtnMove\">14 La iglesia moderna-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20902174\" data-toolbar=\"-mbrBtnMove\">15 La iglesia moderna-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20969280\" data-toolbar=\"-mbrBtnMove\">16 La iglesia moderna-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Hacer 150 Pagina Sobre su Religion Investigacion </a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Credos y Confesiones",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/22997669\" data-toolbar=\"-mbrBtnMove\">1-Credos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/23001153\" data-toolbar=\"-mbrBtnMove\">2-Romano_Apostoles</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/24807280\" data-toolbar=\"-mbrBtnMove\">3-Nicea</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25036660\" data-toolbar=\"-mbrBtnMove\">4-Constantinopla_Calcedonia_Atanasio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/118403398\" data-toolbar=\"-mbrBtnMove\">5-Ginebra</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25037821\" data-toolbar=\"-mbrBtnMove\">6-Escocesa</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25039637\" data-toolbar=\"-mbrBtnMove\">7-Belga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25041981\" data-toolbar=\"-mbrBtnMove\">8-Heidelberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25043807\" data-toolbar=\"-mbrBtnMove\">9-Helvetica</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25044603\" data-toolbar=\"-mbrBtnMove\">10-Dort-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25045437\" data-toolbar=\"-mbrBtnMove\">11-Dort-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25054478\" data-toolbar=\"-mbrBtnMove\">12-Westminster_Historia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25054926\" data-toolbar=\"-mbrBtnMove\">13-Westminster_Confesion-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25088138\" data-toolbar=\"-mbrBtnMove\">14-Westminster_Confesion-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25092052\" data-toolbar=\"-mbrBtnMove\">15-Westminster_Confesion-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25093391\" data-toolbar=\"-mbrBtnMove\">16-Westminster_Confesion-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25095216\" data-toolbar=\"-mbrBtnMove\">17-Westminster_Catecismos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen El Credo de su Iglesia investigar y hacer 150 pagina Ensayo</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Eclesiología de la Iglesia",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583843\" data-toolbar=\"-mbrBtnMove\">1Constitucion-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583846\" data-toolbar=\"-mbrBtnMove\">2Constitucion-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583851\" data-toolbar=\"-mbrBtnMove\">3Constitucion-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583852\" data-toolbar=\"-mbrBtnMove\">4Constitucion-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583854\" data-toolbar=\"-mbrBtnMove\">5Disciplina-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587479\" data-toolbar=\"-mbrBtnMove\">6Disciplina-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587481\" data-toolbar=\"-mbrBtnMove\">7Disciplina-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587482\" data-toolbar=\"-mbrBtnMove\">8Disciplina-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587485\" data-toolbar=\"-mbrBtnMove\">9Disciplina-5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587486\" data-toolbar=\"-mbrBtnMove\">10Disciplina-6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45592050\" data-toolbar=\"-mbrBtnMove\">11CultoyLiturgia-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45592052\" data-toolbar=\"-mbrBtnMove\">12CultoyLiturgia-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45597319\" data-toolbar=\"-mbrBtnMove\">13Administracion-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45592051\" data-toolbar=\"-mbrBtnMove\">14Administracion-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-k",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "victorocasio2015@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/free-seminary-courses-list1-245x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.seminarioabierto.com/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Seminario Teologico Jerusalen</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.seminarioabierto.com/\">Seminario Biblico Reina Valera </a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#efefef",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-20",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13613114_121223491644028_54233711922719064_o-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/46lWEDaUrvk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#c0a375",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "",
+          "text": "<br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jerusalem Church Seminary Theological Bible<br>",
+          "buttons": "           <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-21",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Evangelios",
+          "text": "Click on each number video to watch&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/37672239\" data-toolbar=\"-mbrBtnMove\">01-Canon</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/37674297\" data-toolbar=\"-mbrBtnMove\">02-Critica Textual</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/37676325\" data-toolbar=\"-mbrBtnMove\">03-Sinopticos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36924663\" data-toolbar=\"-mbrBtnMove\">04-Critica_Alta</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931568\" data-toolbar=\"-mbrBtnMove\">05-Mateo-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931567\" data-toolbar=\"-mbrBtnMove\">06-Mateo-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931569\" data-toolbar=\"-mbrBtnMove\">07-Marcos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36931570\" data-toolbar=\"-mbrBtnMove\">08-Marcos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36934523\" data-toolbar=\"-mbrBtnMove\">09-Lucas-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36934524\" data-toolbar=\"-mbrBtnMove\">10-Lucas-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36936100\" data-toolbar=\"-mbrBtnMove\">11-Juan-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36937392\" data-toolbar=\"-mbrBtnMove\">12-Juan-2</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36938269\" data-toolbar=\"-mbrBtnMove\">13-Temas_Especiales-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36938270\" data-toolbar=\"-mbrBtnMove\">14-Temas_Especiales-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841381/video/36938270\" data-toolbar=\"-mbrBtnMove\">14-Temas_Especiales-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-22",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Hechos y Cartas de Pablo",
+          "text": "&nbsp;Click on each number video to watch ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939845\" data-toolbar=\"-mbrBtnMove\">01-Hechos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939846\" data-toolbar=\"-mbrBtnMove\">02-Hechos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939847\" data-toolbar=\"-mbrBtnMove\">03-04 Vida de Pablo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939850\" data-toolbar=\"-mbrBtnMove\">05-Tesalonicenses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36939852\" data-toolbar=\"-mbrBtnMove\">06-Galatas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972985\" data-toolbar=\"-mbrBtnMove\">07-1Corintios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972986\" data-toolbar=\"-mbrBtnMove\">08-2Corintios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972989\" data-toolbar=\"-mbrBtnMove\">09-Romanos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36972990\" data-toolbar=\"-mbrBtnMove\">10-Romanos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/36976169\" data-toolbar=\"-mbrBtnMove\">11-Colosenses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37190272\" data-toolbar=\"-mbrBtnMove\">12-Filemon</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37117535\" data-toolbar=\"-mbrBtnMove\">13-Efesios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37125016\" data-toolbar=\"-mbrBtnMove\">14-Filipenses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37125017\" data-toolbar=\"-mbrBtnMove\">15-1 y 2 Timoteo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1841698/video/37125018\" data-toolbar=\"-mbrBtnMove\">16-2 Timoteo y Tito</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas </a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-23",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Cartas Generales y Apocalipsis",
+          "text": "&nbsp;Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37679518\" data-toolbar=\"-mbrBtnMove\">01-Hebreos-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37679519\" data-toolbar=\"-mbrBtnMove\">02-Hebreos-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37681415\" data-toolbar=\"-mbrBtnMove\">03-Hebreos-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682316\" data-toolbar=\"-mbrBtnMove\">04-Hebreos-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682318\" data-toolbar=\"-mbrBtnMove\">05-Santiago-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682320\" data-toolbar=\"-mbrBtnMove\">06-Santiago-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682321\" data-toolbar=\"-mbrBtnMove\">07-1 Pedro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37682326\" data-toolbar=\"-mbrBtnMove\">08-2 Pedro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689050\" data-toolbar=\"-mbrBtnMove\">09-1 Juan</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689051\" data-toolbar=\"-mbrBtnMove\">10-2 y 3 Juan</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689052\" data-toolbar=\"-mbrBtnMove\">11-Judas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689053\" data-toolbar=\"-mbrBtnMove\">12-Apocalipsis-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37689055\" data-toolbar=\"-mbrBtnMove\">13-Apocalipsis-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37700221\" data-toolbar=\"-mbrBtnMove\">14-Apocalipsis-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1856135/video/37700222\" data-toolbar=\"-mbrBtnMove\">15-Apocalipsis-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxzZW1pbmFyeWplcnVzYWxlbW1pbmlzdHJ5fGd4OjdhOWQzNzQzNTM4MTNkZDE\" data-toolbar=\"-mbrBtnMove\">Examen de Nuevo Testamento Apocalipsis</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-24",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Libros Historicos del Antiguo Testamento",
+          "text": "&nbsp;Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/52630383\" data-toolbar=\"-mbrBtnMove\">01-Texto Canon</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/38525764\" data-toolbar=\"-mbrBtnMove\">02-Historia y Critica</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37702865\" data-toolbar=\"-mbrBtnMove\">03-Genesis</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37702867\" data-toolbar=\"-mbrBtnMove\">04-Exodo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37702869\" data-toolbar=\"-mbrBtnMove\">05-Levitico</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736121\" data-toolbar=\"-mbrBtnMove\">06-Deuteronomio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736123\" data-toolbar=\"-mbrBtnMove\">07-Josue</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736125\" data-toolbar=\"-mbrBtnMove\">08-Jueces y Rut</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736127\" data-toolbar=\"-mbrBtnMove\">09-1 Samuel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37736129\" data-toolbar=\"-mbrBtnMove\">10-2 Samuel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748182\" data-toolbar=\"-mbrBtnMove\">11y 12-Reyes-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748185\" data-toolbar=\"-mbrBtnMove\">13-Cronicas-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748187\" data-toolbar=\"-mbrBtnMove\">14-Cronicas-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37748189\" data-toolbar=\"-mbrBtnMove\">15-Esdras y Nehemias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1857039/video/37754148\" data-toolbar=\"-mbrBtnMove\">16-Ester</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo de 150 Pagina </a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-25",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Profetas y Poetas",
+          "text": "Click on each number video to watch&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37988305\" data-toolbar=\"-mbrBtnMove\">01-Isaias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37991133\" data-toolbar=\"-mbrBtnMove\">02-Jeremias y Lamentaciones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37980300\" data-toolbar=\"-mbrBtnMove\">03-Ezequiel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37980297\" data-toolbar=\"-mbrBtnMove\">04-Daniel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/37980298\" data-toolbar=\"-mbrBtnMove\">05-Oseas y Joel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534236\" data-toolbar=\"-mbrBtnMove\">06-Amos y Abdias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534238\" data-toolbar=\"-mbrBtnMove\">07-Jonas y Miqueas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534241\" data-toolbar=\"-mbrBtnMove\">08- Nahum y Habacuc</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534242\" data-toolbar=\"-mbrBtnMove\">09-Sofonias y Hageo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38534244\" data-toolbar=\"-mbrBtnMove\">10-Zacarias y Malaquias</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38536667\" data-toolbar=\"-mbrBtnMove\">11-Poesia Hebrea</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38536669\" data-toolbar=\"-mbrBtnMove\">12-Proverbios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1871654/video/38536670\" data-toolbar=\"-mbrBtnMove\">13-Job</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Pagina </a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-26",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Hermeneutica",
+          "text": "Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127015\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127016\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127017\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127019\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37127020\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37180883\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37180882\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182558\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182560\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182563\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182564\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37182566\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37187075\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-13</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1846462/video/37187076\" data-toolbar=\"-mbrBtnMove\">Hermeneutica-14</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_6307f7f29d02431295bfa86204ab9c9b.pdf\" data-toolbar=\"-mbrBtnMove\">Libro Principios de INTERPRETACIÓN BÍBLICA L. Berkhof</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-27",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Teología Sistemática",
+          "text": "Parte 1 de 2<br>Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28031490\" data-toolbar=\"-mbrBtnMove\">1-Revelacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28031975\" data-toolbar=\"-mbrBtnMove\">2-Escritura</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28032487\" data-toolbar=\"-mbrBtnMove\">3-Dios_Existencia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28032998\" data-toolbar=\"-mbrBtnMove\">4-Dios_Atributos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28033360\" data-toolbar=\"-mbrBtnMove\">5-Dios_Trinidad</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28033805\" data-toolbar=\"-mbrBtnMove\">6-Dios_Decreto</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28034065\" data-toolbar=\"-mbrBtnMove\">7-Predestinación</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28034443\" data-toolbar=\"-mbrBtnMove\">8-Creación</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28470373\" data-toolbar=\"-mbrBtnMove\">9-Providencia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28471539\" data-toolbar=\"-mbrBtnMove\">10- Naturaleza_Hombre</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28472194\" data-toolbar=\"-mbrBtnMove\">11-Imagen_de_Dios</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28946505\" data-toolbar=\"-mbrBtnMove\">12-Pecado</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28947075\" data-toolbar=\"-mbrBtnMove\">13-Pacto_de_gracia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/28948755\" data-toolbar=\"-mbrBtnMove\">14-Historia_Cristologia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29121765\" data-toolbar=\"-mbrBtnMove\">15-Naturalezas y Persona de Cristo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_4e393aee65d94cfcbda9e3044d9f659e.pdf\" data-toolbar=\"-mbrBtnMove\">Libro TEOLOGÍA SISTEMÁTICA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"n\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a>                 "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-28",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Teología Sistemática",
+          "text": "Parte 2 de 2<br>Click on each number video to watch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29122363\" data-toolbar=\"-mbrBtnMove\">16-Estados y oficios de Cristo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29267225\" data-toolbar=\"-mbrBtnMove\">17-Expiación-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29268559\" data-toolbar=\"-mbrBtnMove\">18-Expiación-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29269809\" data-toolbar=\"-mbrBtnMove\">19-Pneumatología-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29272031\" data-toolbar=\"-mbrBtnMove\">20-Pneumatología-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/29272942\" data-toolbar=\"-mbrBtnMove\">21-Pneumatología-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36445459\" data-toolbar=\"-mbrBtnMove\">22-Pneumatologia-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36448417\" data-toolbar=\"-mbrBtnMove\">23-Pneumatologia-5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36450737\" data-toolbar=\"-mbrBtnMove\">24-Eclesiologia-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36459502\" data-toolbar=\"-mbrBtnMove\">25-Eclesiologia-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36477421\" data-toolbar=\"-mbrBtnMove\">26-Eclesiologia-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36478354\" data-toolbar=\"-mbrBtnMove\">27-Eclesiologia-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36872081\" data-toolbar=\"-mbrBtnMove\">28-Escatologia-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36917013\" data-toolbar=\"-mbrBtnMove\">29-Escatologia-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36918145\" data-toolbar=\"-mbrBtnMove\">30-Escatologia-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1674616/video/36918999\" data-toolbar=\"-mbrBtnMove\">31-Escatologia-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_d2174cc9d261416894009148ce8befed.pdf\" data-toolbar=\"-mbrBtnMove\">Teologia Sistematica Myler Perlman </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-29",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Homiletica",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572376\" data-toolbar=\"-mbrBtnMove\">01-Naturaleza y Necesidad</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572377\" data-toolbar=\"-mbrBtnMove\">02-Razones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572379\" data-toolbar=\"-mbrBtnMove\">03-Seleccion del Texto</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572380\" data-toolbar=\"-mbrBtnMove\">04-Diagramas Exegeticos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38572383\" data-toolbar=\"-mbrBtnMove\">05-Bosquejo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587458\" data-toolbar=\"-mbrBtnMove\">06-Divisiones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587460\" data-toolbar=\"-mbrBtnMove\">07-Ilustracion y Aplicacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587461\" data-toolbar=\"-mbrBtnMove\">08-Introduccion y Conclusion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587462\" data-toolbar=\"-mbrBtnMove\">09-Del Texto al Sermon-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38587463\" data-toolbar=\"-mbrBtnMove\">10-Del Texto al Sermon-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38592514\" data-toolbar=\"-mbrBtnMove\">11-Generos de sermones</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38592515\" data-toolbar=\"-mbrBtnMove\">12-Modos de preparacion</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1872200/video/38592518\" data-toolbar=\"-mbrBtnMove\">13-Como leer la BIblia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://media.wix.com/ugd/fcc26e_0c8fe2afbfb74879baaa0c6cd29baace.pdf\" data-toolbar=\"-mbrBtnMove\">Libro ORATORIA Y HOMILÉTICA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Hacer 150 Paginas de Sermones</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "La historia de la iglesia",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19535338\" data-toolbar=\"-mbrBtnMove\">1 La iglesia apostólica</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19537522\" data-toolbar=\"-mbrBtnMove\">2 La iglesia perseguida-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19580702\" data-toolbar=\"-mbrBtnMove\">3 La iglesia perseguida-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19587736\" data-toolbar=\"-mbrBtnMove\">4 La iglesia perseguida-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/19597974\" data-toolbar=\"-mbrBtnMove\">5 La iglesia imperial-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20075365\" data-toolbar=\"-mbrBtnMove\">6 La iglesia imperial-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20085077\" data-toolbar=\"-mbrBtnMove\">7 La iglesia medieval-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20103223\" data-toolbar=\"-mbrBtnMove\">8 La iglesia medieval-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20105689\" data-toolbar=\"-mbrBtnMove\">9 La iglesia medieval-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20758229\" data-toolbar=\"-mbrBtnMove\">10 La iglesia medieval-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20763521\" data-toolbar=\"-mbrBtnMove\">11 La iglesia reformada-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20764751\" data-toolbar=\"-mbrBtnMove\">12 La iglesia reformada-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20765687\" data-toolbar=\"-mbrBtnMove\">13 La iglesia reformada-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20767520\" data-toolbar=\"-mbrBtnMove\">14 La iglesia moderna-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20902174\" data-toolbar=\"-mbrBtnMove\">15 La iglesia moderna-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1524280/video/20969280\" data-toolbar=\"-mbrBtnMove\">16 La iglesia moderna-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Hacer 150 Pagina Sobre su Religion Investigacion </a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Credos y Confesiones",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/22997669\" data-toolbar=\"-mbrBtnMove\">1-Credos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/23001153\" data-toolbar=\"-mbrBtnMove\">2-Romano_Apostoles</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/24807280\" data-toolbar=\"-mbrBtnMove\">3-Nicea</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25036660\" data-toolbar=\"-mbrBtnMove\">4-Constantinopla_Calcedonia_Atanasio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/118403398\" data-toolbar=\"-mbrBtnMove\">5-Ginebra</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25037821\" data-toolbar=\"-mbrBtnMove\">6-Escocesa</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25039637\" data-toolbar=\"-mbrBtnMove\">7-Belga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25041981\" data-toolbar=\"-mbrBtnMove\">8-Heidelberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25043807\" data-toolbar=\"-mbrBtnMove\">9-Helvetica</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25044603\" data-toolbar=\"-mbrBtnMove\">10-Dort-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25045437\" data-toolbar=\"-mbrBtnMove\">11-Dort-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25054478\" data-toolbar=\"-mbrBtnMove\">12-Westminster_Historia</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25054926\" data-toolbar=\"-mbrBtnMove\">13-Westminster_Confesion-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25088138\" data-toolbar=\"-mbrBtnMove\">14-Westminster_Confesion-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25092052\" data-toolbar=\"-mbrBtnMove\">15-Westminster_Confesion-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25093391\" data-toolbar=\"-mbrBtnMove\">16-Westminster_Confesion-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/1586174/video/25095216\" data-toolbar=\"-mbrBtnMove\">17-Westminster_Catecismos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen El Credo de su Iglesia investigar y hacer 150 pagina Ensayo</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Eclesiología de la Iglesia",
+          "text": "Click on each number video to watch<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583843\" data-toolbar=\"-mbrBtnMove\">1Constitucion-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583846\" data-toolbar=\"-mbrBtnMove\">2Constitucion-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583851\" data-toolbar=\"-mbrBtnMove\">3Constitucion-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583852\" data-toolbar=\"-mbrBtnMove\">4Constitucion-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45583854\" data-toolbar=\"-mbrBtnMove\">5Disciplina-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587479\" data-toolbar=\"-mbrBtnMove\">6Disciplina-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587481\" data-toolbar=\"-mbrBtnMove\">7Disciplina-3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587482\" data-toolbar=\"-mbrBtnMove\">8Disciplina-4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587485\" data-toolbar=\"-mbrBtnMove\">9Disciplina-5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45587486\" data-toolbar=\"-mbrBtnMove\">10Disciplina-6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45592050\" data-toolbar=\"-mbrBtnMove\">11CultoyLiturgia-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45592052\" data-toolbar=\"-mbrBtnMove\">12CultoyLiturgia-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45597319\" data-toolbar=\"-mbrBtnMove\">13Administracion-1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/album/2004277/video/45592051\" data-toolbar=\"-mbrBtnMove\">14Administracion-2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Examen Ensayo 150 Paginas\" data-toolbar=\"-mbrBtnMove\">Examen Ensayo 150 Paginas</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-2d",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "victorocasio2015@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    }
+  }
+}
